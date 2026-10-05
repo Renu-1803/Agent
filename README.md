@@ -248,18 +248,6 @@ The proposed system provides a **faster and easier way to transform bookmarked o
 
 It reduces manual effort, improves content organization, and helps users consistently share useful knowledge and insights on LinkedIn.
 
----
-
-## 📄 Complete Project Document
-
-Want to explore the complete requirements and project documentation?
-
-### 👉 [📥 Open Project PDF](images/project.pdf)
-
-The PDF contains the complete project overview, objectives, problem identification, proposed system, requirements, technology requirements, expected outcome, and conclusion.
-
----
-
 ## 🚀 Project Vision
 
 > **Turn saved knowledge into meaningful professional content with the power of AI.**
