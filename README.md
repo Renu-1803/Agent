@@ -2,18 +2,6 @@
 
 ### AI-powered application for transforming bookmarked content into professional LinkedIn thought-leadership posts.
 
----
-
-## 📄 Project Documentation
-
-For the complete project documentation, requirements, and project details:
-
-### 👉 [📥 View Complete Project Documentation](images/project.pdf)
-
-> Click the link above to open the complete project PDF from this GitHub repository.
-
----
-
 ## 📌 Overview
 
 **LinkedIn Thought Leadership Post Drafter from Bookmarks** is an AI-based application designed to help users convert useful bookmarked articles, blogs, research resources, and web pages into professional LinkedIn posts.
